@@ -1,0 +1,1 @@
+https://rickandmortyapi.com/api/character/?pages=1
