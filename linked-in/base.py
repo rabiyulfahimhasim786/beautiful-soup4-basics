@@ -20,7 +20,7 @@ username = driver.find_element_by_id("username")
 # tag used here.
   
 # Enter Your Email Address
-username.send_keys("senthildesss@gmail.com")  
+username.send_keys("username@gmail.com")  
     
 # entering password
 pword = driver.find_element_by_id("password")
@@ -28,7 +28,7 @@ pword = driver.find_element_by_id("password")
 # tag used here.
   
 # Enter Your Password
-pword.send_keys("desss101")        
+pword.send_keys("Password")        
   
 # Clicking on the log in button
 # Format (syntax) of writing XPath --> 
