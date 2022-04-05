@@ -1,0 +1,14 @@
+html5lib
+lxml
+schedule==1.1.0
+fake_useragent==0.1.11
+yfinance
+matplotlib
+df2gspread
+flask
+time
+pandas
+gspread
+oauth2client
+bs4
+json
