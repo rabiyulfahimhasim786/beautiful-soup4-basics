@@ -1,0 +1,13 @@
+Updating certifi (2021.5.30 -> 2021.10.8)
+  • Updating charset-normalizer (2.0.4 -> 2.0.12)
+  • Updating idna (3.2 -> 3.3)
+  • Updating urllib3 (1.26.6 -> 1.26.9)
+  • Updating cachetools (4.2.2 -> 5.0.0)
+  • Updating oauthlib (3.1.1 -> 3.2.0)
+  • Updating pyparsing (2.4.7 -> 3.0.8)
+  • Updating requests (2.26.0 -> 2.27.1)
+  • Updating rsa (4.7.2 -> 4.8)
+  • Updating google-auth (1.35.0 -> 2.6.3)
+  • Installing httplib2 (0.20.4)
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
