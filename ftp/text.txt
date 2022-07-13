@@ -1,1 +1,9 @@
 colab-google references
+https://github.com/rabiyulfahimhasim786/beautiful-soup4-basics/blob/main/FTP_folders_file_sharing_for_OCR.ipynb
+
+https://github.com/rabiyulfahimhasim786/beautiful-soup4-basics/blob/main/FTP.ipynb
+
+https://github.com/rabiyulfahimhasim786/beautiful-soup4-basics/blob/main/FTP_Testings_.ipynb
+
+
+https://github.com/rabiyulfahimhasim786/beautiful-soup4-basics/blob/main/FTP_stocks_folder_uploads.ipynb
