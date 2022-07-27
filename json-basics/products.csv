@@ -1,21 +1,23 @@
-,Doctor Name,Price,Address,OfficeCode,OfficeGuid,CityName,CityAndState,CityStateZipBestMatch
-0,"Dr. Irene Cornell-Ade, MD",Family Practitioner,4500 Washington Ave Ste 300,V6DECVY944,45443656-5643-3959-3434-000000000000,Houston,"Houston, TX","Houston, TX 77007"
-1,"Dr. Richard Patt, MD",Family Practitioner,315 EMBRY ST,A1JGDNL950,474A3141-4E44-394C-3530-000000000000,Houston,"Houston, TX","Houston, TX 77009"
-2,"Dr. Saleha Ahmed, MD",Family Practitioner,427 W 20th St Ste 712,OO5SRRK,53354F4F-5252-004B-0000-000000000000,Houston,"Houston, TX","Houston, TX 77008"
-3,"Dr. Kesha Zaveri, DO",Family Practitioner,1431 Studemont St Ste C2400,S7W6EZ9383,36573753-5A45-3339-3833-000000000000,Houston,"Houston, TX","Houston, TX 77007"
-4,"Dr. Bita Pour-Jafari, MD",Family Practitioner,427 W 20th St,OY57PV6,3735594F-5650-0036-0000-000000000000,Houston,"Houston, TX","Houston, TX 77008"
-5,"Dr. Danielle Wininger, DO",Family Practitioner,3811 Lyons Ave,OYY7JDV,3759594F-444A-0056-0000-000000000000,Houston,"Houston, TX","Houston, TX 77020"
-6,"Dr. Muhaned Al Saedi, MD",Family Practitioner,1200 Baker St,VGKLKMF174,4C4B4756-4D4B-3146-3734-000000000000,Houston,"Houston, TX","Houston, TX 77002"
-7,"Dr. Chandni Choudhary, MD",Family Practitioner,1200 Binz St Tx,MD000036A8,3030444D-3030-3633-4138-000000000000,Houston,"Houston, TX","Houston, TX 77004"
-8,"Dr. Adeeba Akhtar, MD",Family Practitioner,1200 Richmond Ave Ste 265,OYUFEOWWNI,4655594F-4F45-5757-4E49-000000000000,Houston,"Houston, TX","Houston, TX 77082"
-9,"Dr. Latisha Rowe, MD",Family Practitioner,1917 Ashland St,MD000018E7,3030444D-3030-3831-4537-000000000000,Houston,"Houston, TX","Houston, TX 77008"
-10,"Dr. Van Tran, DO",Family Practitioner,1919 N Loop W Ste 218,OY2HCPY,4832594F-5043-0059-0000-000000000000,Houston,"Houston, TX","Houston, TX 77008"
-11,"Dr. Peter Jian, MD",Family Practitioner,3701 Kirby Dr,MD000165CD,3030444D-3130-3536-4344-000000000000,Houston,"Houston, TX","Houston, TX 77098"
-12,"Dr. Anna Silva, MD",Family Practitioner,1200 Mckinney St Ste 473,OO5DLVB,44354F4F-564C-0042-0000-000000000000,Houston,"Houston, TX","Houston, TX 77010"
-13,"Dr. Roseline Okoro, DNP",Family Practitioner,3803 Irvington Blvd,OONK68K,4B4E4F4F-3836-004B-0000-000000000000,Houston,"Houston, TX","Houston, TX 77009"
-14,"Dr. Ryan Ahern, MD",Family Practitioner,1213 Hermann Dr,MD000067D3,3030444D-3030-3736-4433-000000000000,Houston,"Houston, TX","Houston, TX 77004"
-15,"Dr. Rochelle Pondt, DO",Family Practitioner,1200 Binz St Ste 1240,MD0000F86C,3030444D-3030-3846-3643-000000000000,Houston,"Houston, TX","Houston, TX 77004"
-16,"Dr. Sumera Muzaffar, MD",Family Practitioner,107 Yale St Ste 200,OO2DNX2,44324F4F-584E-0032-0000-000000000000,Houston,"Houston, TX","Houston, TX 77007"
-17,"Dr. Tarina Desai, MD",Family Practitioner,714 Yale St Ste 2k,EIM6IV3270,364D4945-5649-3233-3730-000000000000,Houston,"Houston, TX","Houston, TX 77007"
-18,"Dr. Sandra Irving, MD",Family Practitioner,13114 Farm To Market 1960 Rd W,WMDOLW1823,4F444D57-574C-3831-3233-000000000000,Houston,"Houston, TX","Houston, TX 77065"
-19,"Dr. Fanny Ramirez, MD",Family Practitioner,1315 St Joseph Pkwy Ste 1309,XPVQRCB524,51565058-4352-3542-3234-000000000000,Houston,"Houston, TX","Houston, TX 77002"
+,Doctor Name,Specialty,Address,OfficeCode,OfficeGuid,CityName,CityAndState,CityStateZipBestMatch,Images
+0,"Sarah Cooper, APRN",Family Practitioner,4414 SW College Rd Unit 1462,OY4WP4P,5734594F-3450-0050-0000-000000000000,Houston,"Houston, TX","Houston, TX 34474",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+1,"Wanda Hilliard, APRN-BC",Family Practitioner,5225 Katy Fwy Ste 650,OY56FGH,3635594F-4746-0048-0000-000000000000,Houston,"Houston, TX","Houston, TX 77007",https://photos.healthgrades.com/img/prov/3/P/Y/3PYQW_w60h80_v6630.jpg
+2,"Roseline Onwuchuruba, APRN",Family Practitioner,1310 Prairie St Ste 990,OY5YM9D,5935594F-394D-0044-0000-000000000000,Houston,"Houston, TX","Houston, TX 77002",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+3,"Yanira Bautista, NP",Family Practitioner,4000 Fulton St,YBL5L3,354C4259-334C-0000-0000-000000000000,Houston,"Houston, TX","Houston, TX 77009",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+4,"John McDivitt, NP",Family Practitioner,10705 Spring Grn Blvd Ste 200,VPJCWGU899,434A5056-4757-3855-3939-000000000000,Houston,"Houston, TX","Houston, TX 77096",https://photos.healthgrades.com/img/silhouettes/silhouette-male_w60h80_v1.jpg
+5,"Stephanie Frimpong-Badu, FNP",Family Practitioner,5656 Kelley 80001 St Ste 2lb,OYYVYM7,5659594F-4D59-0037-0000-000000000000,Houston,"Houston, TX","Houston, TX 77026",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+6,"Carrie Middlebrooks, RN",Family Practitioner,6621 Fannin St Mc Ste 19345c-19345h,UMJAFA6755,414A4D55-4146-3736-3535-000000000000,Houston,"Houston, TX","Houston, TX 77030",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+7,"Jennifer Maupin, CPNP",Family Practitioner,6701 Fannin St CCC # 1720.11,C61J5BL136,4A313643-4235-314C-3336-000000000000,Houston,"Houston, TX","Houston, TX 77030",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+8,"Michael Pudlo, ACNP-BC",Family Practitioner,6445 Main Street Opc # 26,UAFQFXI194,51464155-5846-3149-3934-000000000000,Houston,"Houston, TX","Houston, TX 77030",https://photos.healthgrades.com/img/silhouettes/silhouette-male_w60h80_v1.jpg
+9,"Nizar Moughrabi, NP",Family Practitioner,7401 S Main Fondren Orthopedic P,DFHBT3U625,42484644-3354-3655-3235-000000000000,Houston,"Houston, TX","Houston, TX 77030",https://photos.healthgrades.com/img/silhouettes/silhouette-male_w60h80_v1.jpg
+10,"Dr. Roseline Okoro, DNP",Family Practitioner,3803 Irvington Blvd,OONK68K,4B4E4F4F-3836-004B-0000-000000000000,Houston,"Houston, TX","Houston, TX 77009",https://photos.healthgrades.com/img/prov/3/8/2/382KC_w60h80_v12928.jpg
+11,"Lee Stockton, NP",Family Practitioner,1431 Studemont St Ste C2400,S7W6EZ9383,36573753-5A45-3339-3833-000000000000,Houston,"Houston, TX","Houston, TX 77007",https://photos.healthgrades.com/img/prov/x/2/r/x2rby_w60h80_vSyMAocWepI.jpg
+12,"Hernan Martinez, ARNP",Family Practitioner,1315 St Joseph Pkwy Ste 1309,OOO88CB,384F4F4F-4338-0042-0000-000000000000,Houston,"Houston, TX","Houston, TX 77002",https://photos.healthgrades.com/img/silhouettes/silhouette-male_w60h80_v1.jpg
+13,"Alyssa Yow, NP",Family Practitioner,1934 CAROLINE ST,LHN9ZXD799,394E484C-585A-3744-3939-000000000000,Houston,"Houston, TX","Houston, TX 77002",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+14,"Delisa Mitchell, CPNP",Family Practitioner,2101 Crawford St Ste 115,1EVU84RV07,55564531-3438-5652-3037-000000000000,Houston,"Houston, TX","Houston, TX 77002",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+15,Cindy Campos,Family Practitioner,4302 Center St,OOJ9V7C,394A4F4F-3756-0043-0000-000000000000,Houston,"Houston, TX","Houston, TX 77007",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+16,"Christelle Hernandez, NP",Family Practitioner,3811 Lyons Ave,OYXWMB7,5758594F-424D-0037-0000-000000000000,Houston,"Houston, TX","Houston, TX 77020",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+17,"Peter Dagher, FNP-C",Family Practitioner,4500 Washington Ave Ste 300,V6DECVY944,45443656-5643-3959-3434-000000000000,Houston,"Houston, TX","Houston, TX 77007",https://photos.healthgrades.com/img/silhouettes/silhouette-male_w60h80_v1.jpg
+18,"Meagan Chavarria, NP",Family Practitioner,6565 Fannin St Fondren # 270,19T3ILIT67,33543931-4C49-5449-3637-000000000000,Houston,"Houston, TX","Houston, TX 77030",https://photos.healthgrades.com/img/prov/X/Y/L/XYLFCFB_w60h80_v49416.jpg
+19,"Mary Shepard, APN",Family Practitioner,1415 California St,OO7FS2D,46374F4F-3253-0044-0000-000000000000,Houston,"Houston, TX","Houston, TX 77006",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+20,"Christine Farley, PMHNP",Family Practitioner,1415 California St,OO8963Q,39384F4F-3336-0051-0000-000000000000,Houston,"Houston, TX","Houston, TX 77006",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
+21,"Andrea Armstrong, RN",Family Practitioner,925 N Shepherd Dr,OOR968W,39524F4F-3836-0057-0000-000000000000,Houston,"Houston, TX","Houston, TX 77008",https://photos.healthgrades.com/img/silhouettes/silhouette-female_w60h80_v1.jpg
