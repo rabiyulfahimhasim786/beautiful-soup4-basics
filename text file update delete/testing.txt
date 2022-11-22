@@ -2,3 +2,5 @@ Hello
 This is Chennai 
 This is paris 
 This is Singapore 
+references - https://www.geeksforgeeks.org/reading-writing-text-files-python/
+stackreferences - https://stackoverflow.com/questions/70565621/how-do-i-clear-all-the-contents-of-my-file-before-i-write-on-it
